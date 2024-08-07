@@ -51,7 +51,7 @@ The model is trained on a dataset of 600,000 values. Due to the size and sensiti
 3. **Response**:
     ```json
     {
-        "url": "http://example.com",
+        "url": "http://google.com",
         "prediction": "malicious"
     }
     ```
@@ -73,7 +73,7 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any queries or issues, please contact [your-email@example.com](mailto: abhishek.13819011622@ipu.ac.in).
+For any queries or issues, please contact [your-2eze4abhishek@gmail.com.com](mailto: abhishek.13819011622@ipu.ac.in).
 
 ---
 
